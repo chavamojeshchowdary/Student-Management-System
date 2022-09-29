@@ -1,3 +1,5 @@
 # Student-Management-System
-An Student Management System to add student, get student, remove student and update student in MySQL database. This is a Spring MVC and Spring Boot web application.
-Web Technologies used:Spring MVC, Spring Boot, HTML, CSS, Bootstrap  
+Student Management System is a Springboot, SpringMVC web application.It is designed for managing student records in our Database. Using this we can add a student record, get a student record and we can remove or update a student record in our MySQL database.
+
+#Web Technologies used:
+Spring MVC, Spring Boot, HTML, CSS, Bootstrap  
